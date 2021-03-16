@@ -1,0 +1,6 @@
+cat
+dog
+orange 
+banana
+book
+keyboard
